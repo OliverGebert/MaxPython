@@ -1,4 +1,4 @@
 name = input("Enter your name: ")
-for i in range(3):
+for i in range(7):
     print(" ***** ")
 print("Hi " + name + "!")
