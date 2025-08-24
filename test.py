@@ -3,3 +3,4 @@ for i in range(7):
     print(" ***** ")
 print("Hi " + name + "!")
 print("good by")
+print("good by")
